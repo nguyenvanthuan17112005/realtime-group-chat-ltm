@@ -1,0 +1,5 @@
+DARK_GREY = '#121212'
+MEDIUM_GREY = '#1F1B24'
+OCEAN_BLUE = "#464E88"
+FONT = ("Helvetica", 17)
+SMALL_FONT = ("Helvetica", 13)
